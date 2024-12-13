@@ -9,7 +9,9 @@ assignees: ''
 
 ###Story
 As a [role]
+
 I need [functionality]
+
 So that [business value]
 
 ###Description
@@ -17,5 +19,7 @@ So that [business value]
 
 ###Ghurkin Story to define when the issue is done
 Given that [initial condition]
+
 When I [action]
+
 Then [requested result]
